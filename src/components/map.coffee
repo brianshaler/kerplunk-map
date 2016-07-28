@@ -11,7 +11,7 @@ module.exports = React.createFactory React.createClass
     zoom: @props.zoom ? 5
     latitude: @props.latitude ? 1
     longitude: @props.longitude ? 1
-    markers: @props.markers ? [{_id: '1', lng: 8.55, lat: 47.365}]
+    markers: @props.markers ? []
 
   componentWillReceiveProps: (props) ->
     # console.log 'received new props', props
