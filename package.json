@@ -2,7 +2,7 @@
   "name": "kerplunk-map",
   "displayName": "Map Component",
   "description": "Experimental embed of self-hosted mapbox-gl tile server and react component.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "kerplunk": {
     "services": {
       "tileserver": {
